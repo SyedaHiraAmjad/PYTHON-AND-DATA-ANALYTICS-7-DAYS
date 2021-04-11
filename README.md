@@ -7,4 +7,4 @@ https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA
 Final project is also uploaded:
 Check out Project.ipynb file from this repository
 
-Certification
+Check out the Certificates from @Shape_AI_Certificates directory
